@@ -68,18 +68,19 @@ I’ve been exploring the new wave of AI-first engineering tools, including:
       srcset="https://github-readme-stats.vercel.app/api?username=No0bmazt3r&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=No0bmazt3r&show_icons=true&hide_rank=true" />
   </picture>
 
   &nbsp;
 
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com/?user=No0bmazt3r&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img height=200 src="https://streak-stats.demolab.com/?user=No0bmazt3r" />
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=No0bmazt3r&theme=sakura-x&border_radius=15"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://streak-stats.demolab.com?user=No0bmazt3r&theme=sakura-x&border_radius=15" />
+    </picture>
+  </a>
 </div>
 
 ---
