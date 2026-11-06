@@ -1,97 +1,51 @@
-## Hey, I'm Sharvin A/L Kanesan 👋  
-### CS Student • Aspiring Solutions Architect • Cloud + Automation + AI Builder  
-
-I enjoy building systems at the intersection of **software engineering, cloud infrastructure, automation, and modern AI tooling**.  
-Always experimenting, shipping, and learning by doing.
-
----
-
-### 🚀 What I’m Working On
-
-- Building an **AI-powered Social Media Management MVP**  
-  (content scheduling, analytics dashboards, creator workflows)
-
-- Designing projects with a focus on **scalable architecture** and real-world deployment
-
----
-
-### ☁️ Cloud & DevOps Journey
-
-- Currently learning **AWS** and cloud-native fundamentals  
-- Exploring **CI/CD workflows**, deployment pipelines, and infrastructure thinking  
-- Long-term direction: growing into a **Solutions Architect** role
-
----
-
-### ⚙️ Automation & Workflows
-
-- Playing around with **n8n** for automation pipelines  
-- Experimenting with integrations, orchestration, and API-driven systems  
-
----
-
-### 🤖 AI-Native Tooling & Developer Era Experiments
-
-I’ve been exploring the new wave of AI-first engineering tools, including:
-
-- MCP Servers (Model Context Protocol)
-- Gemini CLI
-- Kilo Code
-- Vibe Coding workflows
-- AI-assisted development + rapid prototyping
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend:** React, Vite, TypeScript, Tailwind  
-- **Backend:** Node.js, REST APIs, Databases  
-- **Cloud & DevOps:** AWS (learning), GitHub Actions, Vercel  
-- **Automation:** n8n, workflow systems  
-- **Focus Areas:** Architecture, analytics, AI-assisted products  
-
----
-
-## 📫 Reach Me
-
-- Email: **sharvinkanesan6@gmail.com**
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=No0bmazt3r&color=00fff2)
-
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=No0bmazt3r&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-  </picture>
 
-  &nbsp;
+## Hey, I'm Sharvin 👋
 
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=No0bmazt3r&theme=sakura-x&border_radius=15"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://streak-stats.demolab.com?user=No0bmazt3r&theme=sakura-x&border_radius=15" />
-    </picture>
-  </a>
+**Final-year CS @ UTP · Software Engineer Intern · Co-founder, PorusAI**
+
+I build at the intersection of **agentic AI, automation, and full-stack development**.
+
+<img src="koi/koi.gif" width="256" alt="My koi, drawn nightly from my GitHub activity" />
+
+<!-- TODO: add LinkedIn badge once you have the URL:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+-->
+[![Email](https://img.shields.io/badge/Email-sharvinkanesan6%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sharvinkanesan6@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=No0bmazt3r&color=00bcd4&style=flat&label=views)
+
 </div>
 
 ---
 
-## 🌍 Current Direction
+### 💼 Now
 
-- Building real products with AI + automation  
-- Strengthening cloud + DevOps foundations  
-- Moving toward high-level **systems + solutions architecture**  
-- Staying deep in the new era of AI-driven software engineering  
+- **Software Engineer Intern** + freelance **n8n Automation Developer** at MoneyMatch (fintech)
+- **Co-founder & main developer of PorusAI**, an AI-native B2B SaaS platform for Malaysian SMEs
+- Finishing my B.CS (Hons) at Universiti Teknologi PETRONAS, minor in Financial Management
+
+### 🚀 Selected Work
+
+| Project | What it is |
+|---|---|
+| **PorusAI** <!-- TODO: link --> | AI-native B2B SaaS for Malaysian SMEs |
+| **CO2SorptionDT** <!-- TODO: link if public --> | Final Year Project: local-first agentic AI for CO₂ sorption reactor monitoring |
+| **PaySense** <!-- TODO: link or remove --> | BNPL affordability decision-support assistant for Malaysian students |
+
+### 🛠 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,githubactions,vercel,aws&theme=dark" alt="TypeScript, React, Vite, Tailwind, Node.js, GitHub Actions, Vercel, AWS" />
+</p>
+
+**AI & automation:** agentic AI · n8n · MCP servers · AI-assisted development
+
+### 📊 Activity
+
+<a href="https://github.com/No0bmazt3r">
+  <img src="https://streak-stats.demolab.com?user=No0bmazt3r&theme=sakura-x&border_radius=15&hide_border=true" alt="GitHub streak stats" />
+</a>
 
 ---
 
-**Engineering is evolving fast — I’m here to build with it.**
+<div align="center"><sub>Engineering is evolving fast. I'm here to build with it.</sub></div>
